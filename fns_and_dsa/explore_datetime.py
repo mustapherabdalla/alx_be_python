@@ -1,4 +1,4 @@
-from _datetime import datetime, timedelta
+from datetime import datetime, timedelta
 
 
 def display_current_datetime():
